@@ -1,4 +1,4 @@
-# cv
+# Curriculum Vitae
 
 ¡Hola! Soy Sandra, y te doy la bienvenida a mi perfil de GitHub. Aquí encontrarás una muestra de mi trabajo y habilidades, organizada de manera que puedas explorar y evaluar mi destreza en diferentes áreas.
 
