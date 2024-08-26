@@ -8,6 +8,4 @@ Busco nuevas oportunidades laborales donde pueda aplicar y expandir mis habilida
 Html, Css y JavaScript
 
 # Visita este proyecto en línea
-
-
-
+https://sandrycode.github.io/cv/
